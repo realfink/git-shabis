@@ -1,4 +1,5 @@
 # Git-Shabis
+### I hate Yiddish
 ###  גיט פאר יידעין
 
 ### Installation
